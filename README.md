@@ -20,9 +20,9 @@ A fully functional Flipkart e-commerce website clone built using the **MERN stac
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (Mongoose)
 - **Authentication**: JWT
-- **Deployment**: [Add here if deployed]
+- **Deployment**:[ https://sparkly-quokka-cb51b4.netlify.app/ ]
 
----
+--
 
 ## 🔧 Installation
 
@@ -41,4 +41,4 @@ cd ../backend
 npm install
 node index.js
 
-view: https://sparkly-quokka-cb51b4.netlify.app/
+
